@@ -1,4 +1,4 @@
-## Bem-vindo(a)! Eu sou Geovanna, e este é o meu portfólio! :)
+## Bem-vindo(a)! Eu sou Geovanna, e este é o meu ropositório! :)
 
 Estudante de Engenharia de Software na FIAP.
 
