@@ -1,6 +1,7 @@
-## Bem-vindo(a)! Eu sou Geovanna, e este é o meu repositório! :)
+## Bem-vindo(a)! Eu sou Geovanna, e este é o meu portfólio! :)
 
 Estudante de Engenharia de Software na FIAP.
+- Este perfil contém PESSOAIS e principalmente ACADÊMICOS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
