@@ -1,7 +1,6 @@
-## Bem-vindo(a)! Eu sou Geovanna, e este é o meu portfólio! :)
+## Hello World! Eu sou Geovanna, e este é o meu portfólio! :)
 
 Estudante de Engenharia de Software na FIAP.
-- Este perfil contém projetos PESSOAIS e principalmente <b>ACADÊMICOS</b>.
 
 ## Linguagem que eu uso:
 
