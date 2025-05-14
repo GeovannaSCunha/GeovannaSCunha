@@ -28,13 +28,6 @@
 
 [![GeovannaSCunha](https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaSCunha&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GeovannaSCunha/GeovannaSCunha/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Onde me encontrar
 
