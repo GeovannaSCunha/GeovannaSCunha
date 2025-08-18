@@ -15,7 +15,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
 ![Google Cloud](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud&logoColor=4285F4)
 
-**Inteligência Artificial & Machine Learning**
+**Inteligência Artificial & Data Science**
 
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
