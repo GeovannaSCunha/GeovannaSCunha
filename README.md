@@ -1,5 +1,6 @@
 # 🌎 Hello World!
 👩‍💻 Estudante de Engenharia de Software na FIAP
+
 📊 Interesse em Engenharia de Dados, Cloud e Inteligência Artificial
 
 ## 🔥 Minhas Skills
