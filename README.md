@@ -19,6 +19,7 @@
 
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=plotly&logoColor=3F4F75)
 
 **Outros conhecimentos**
 
