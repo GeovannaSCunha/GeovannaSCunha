@@ -1,4 +1,4 @@
-<h1>🌎 Hello World!</h1>
+<h1>Hello World! ₊˚⊹ᰔ</h1>
 <p>👩‍💻 Estudante de Engenharia de Software na FIAP</p>
 <p>📊 Interesse em Engenharia de Dados, Cloud e Inteligência Artificial</p>
 
@@ -63,9 +63,11 @@
 <h2>⭐ GitHub Stats</h2>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaSCunha&hide=html&layout=compact&theme=dracula" alt="GeovannaSCunha GitHub Stats">
-  </a>
+    <img 
+   height="170" 
+   style="padding-right: 10px;" 
+   src="https://github-readme-stats.vercel.app/api?username=GeovannaSCunha&show_icons=true&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
+ <img height = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannaSCunha&layout=compact&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
 </p>
 
 <hr>
