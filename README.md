@@ -80,7 +80,7 @@
 
 <hr>
 
-<h2>୨⋆.𐙚 ̊ Onde me encontrar</h2>
+<h2>୨⋆. Onde me encontrar</h2>
 <p>
   <a href="https://www.linkedin.com/in/geovanna-silva-cunha-b027b1209/">
     <img src="https://img.shields.io/badge/LinkedIn-AFD7FF?style=for-the-badge&logo=linkedin&logoColor=004182">
