@@ -26,6 +26,8 @@
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-CFE3FF?logo=numpy&logoColor=4C4C4C">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-E6D9FF?logo=pandas&logoColor=4C4C4C">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-BFE9E3?logo=matplotlib&logoColor=4C4C4C">
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-CAD9FF?logo=seaborn&logoColor=4C4C4C">
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-CFE7FF?logo=plotly&logoColor=4C4C4C">
 </p>
 
 <hr>
