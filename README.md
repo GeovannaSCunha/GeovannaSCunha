@@ -80,15 +80,22 @@
 
 <hr>
 
-<h2>୨⋆. Onde me encontrar</h2>
-<p>
-  <a href="https://www.linkedin.com/in/geovanna-silva-cunha-b027b1209/">
-    <img src="https://img.shields.io/badge/LinkedIn-AFD7FF?style=for-the-badge&logo=linkedin&logoColor=004182">
-  </a>
-  <a href="mailto:geovanna.scunha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFD0D6?style=for-the-badge&logo=gmail&logoColor=7A1C1C">
-  </a>
-  <a href="https://github.com/GeovannaSCunha">
-    <img src="https://img.shields.io/github/followers/GeovannaSCunha?label=follow&style=social">
-  </a>
-</p>
+<h2>
+  <span style="background:#eaf7ff;border:1px dashed #9ed3ff;padding:8px 14px;border-radius:999px;box-shadow:0 1px 0 #9ed3ff55;">
+    ୨⋆. Onde me encontrar
+  </span>
+</h2>
+
+<div style="max-width:760px;margin:10px auto 0 auto;">
+  <div style="background:#f6fbff;border:1px dashed #b9e1ff;border-radius:16px;padding:14px;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;">
+    <a href="https://www.linkedin.com/in/geovanna-silva-cunha-b027b1209/" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-AFD7FF?style=for-the-badge&logo=linkedin&logoColor=004182" alt="LinkedIn">
+    </a>
+    <a href="mailto:geovanna.scunha@gmail.com" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Gmail-FFD0D6?style=for-the-badge&logo=gmail&logoColor=7A1C1C" alt="Gmail">
+    </a>
+    <a href="https://github.com/GeovannaSCunha" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/GitHub-EDEDED?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub">
+    </a>
+  </div>
+</div>
