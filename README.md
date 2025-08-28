@@ -1,12 +1,14 @@
 <h1>Hello World! ₊˚⊹ᰔ</h1>
-<p>👩‍💻 Estudante de Engenharia de Software na FIAP</p>
-<p>📊 Interesse em Engenharia de Dados, Cloud e Inteligência Artificial</p>
+<p>ʚɞ Estudante de Engenharia de Software na FIAP</p>
+<p>ʚɞ Interesse em Engenharia de Dados, Cloud e Inteligência Artificial</p>
+<br>
+<p>₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
 
 <hr>
 
-<h2>🔥 Minhas Skills</h2>
+<h2>₊˚⊹♡ Minhas Skills</h2>
 
-<h3>☁️ Dados & Cloud</h3>
+<h3>⋆｡˚ Dados & Cloud</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
@@ -19,7 +21,7 @@
 
 <hr>
 
-<h3>📚 Bibliotecas e Frameworks</h3>
+<h3>❀˖° Bibliotecas e Frameworks</h3>
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
@@ -28,7 +30,7 @@
 
 <hr>
 
-<h3>💻 Outros Conhecimentos</h3>
+<h3>༘⋆ Outros Conhecimentos</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
@@ -40,7 +42,7 @@
 
 <hr>
 
-<h3>🛠 Ferramentas</h3>
+<h3>⭑.ᐟ Ferramentas</h3>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white">
   <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white">
@@ -52,7 +54,7 @@
 
 <hr>
 
-<h3>🖥 Sistemas Operacionais</h3>
+<h3>｡𖦹°‧ Sistemas Operacionais</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
@@ -60,7 +62,7 @@
 
 <hr>
 
-<h2>⭐ GitHub Stats</h2>
+<h2>ᯓ★ GitHub Stats</h2>
 
 <p>
     <img 
@@ -72,7 +74,7 @@
 
 <hr>
 
-<h2>📌 Onde me encontrar</h2>
+<h2>୨⋆.𐙚 ̊ Onde me encontrar</h2>
 <p>
   <a href="https://www.linkedin.com/in/geovanna-silva-cunha-b027b1209/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
