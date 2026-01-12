@@ -12,7 +12,6 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-B7D3F2?logo=python&logoColor=4C4C4C">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-BEC9FF?logo=postgresql&logoColor=4C4C4C">
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FFC2D6?logo=databricks&logoColor=4C4C4C">
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FFD4B8?logo=apachespark&logoColor=4C4C4C">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FFE5B4?logo=amazon-aws&logoColor=4C4C4C">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-CAD9FF?logo=microsoftazure&logoColor=4C4C4C">
@@ -25,21 +24,10 @@
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-CFE3FF?logo=numpy&logoColor=4C4C4C">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-E6D9FF?logo=pandas&logoColor=4C4C4C">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F6D365?logo=scikitlearn&logoColor=4C4C4C">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-BFE9E3?logo=matplotlib&logoColor=4C4C4C">
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-CAD9FF?logo=seaborn&logoColor=4C4C4C">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-CFE7FF?logo=plotly&logoColor=4C4C4C">
-</p>
-
-<hr>
-
-<h3>༘⋆ Outros Conhecimentos</h3>
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-FFD6C9?logo=openjdk&logoColor=4C4C4C">
-  <img alt="C++" src="https://img.shields.io/badge/C++-CFE4FF?logo=cplusplus&logoColor=4C4C4C">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-CDEAC0?logo=csharp&logoColor=4C4C4C">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-FFD1DA?logo=html5&logoColor=4C4C4C">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-CFE3FF?logo=css3&logoColor=4C4C4C">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFF3B0?logo=javascript&logoColor=4C4C4C">
 </p>
 
 <hr>
@@ -52,14 +40,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-EDEDED?logo=github&logoColor=4C4C4C">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFDDB3?logo=jupyter&logoColor=4C4C4C">
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-CFF5C8?logo=anaconda&logoColor=4C4C4C">
-</p>
-
-<hr>
-
-<h3>｡𖦹°‧ Sistemas Operacionais</h3>
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-CBE4FF?logo=windows&logoColor=4C4C4C">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FFF1AC?logo=linux&logoColor=111111">
 </p>
 
 <hr>
