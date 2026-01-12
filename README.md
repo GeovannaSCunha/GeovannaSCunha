@@ -1,6 +1,6 @@
 <h1>Hello World! ₊˚⊹ᰔ</h1>
 <p>ʚɞ Estudante de Engenharia de Software na FIAP</p>
-<p>ʚɞ Interesse em Engenharia de Dados, Cloud e Inteligência Artificial</p>
+<p>ʚɞ Interesse em Ciência de Dados e Inteligência Artificial</p>
 <br>
 <p>₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
 
