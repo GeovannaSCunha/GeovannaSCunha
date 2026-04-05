@@ -14,8 +14,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-BEC9FF?logo=postgresql&logoColor=4C4C4C">
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FFD4B8?logo=apachespark&logoColor=4C4C4C">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FFE5B4?logo=amazon-aws&logoColor=4C4C4C">
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-CAD9FF?logo=microsoftazure&logoColor=4C4C4C">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-CFE7FF?logo=googlecloud&logoColor=4C4C4C">
 </p>
 
 <hr>
